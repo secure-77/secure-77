@@ -1,6 +1,6 @@
 <p align="center">
 
-<a href="https://github.com/secure-776/secure-77">
+<a href="https://github.com/secure-77/secure-77">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=secure-77&include_all_commits=true&hide=contribs&show_icons=true&line_height=32&count_private=true&theme=calm" />
 </a>
 
